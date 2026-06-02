@@ -55,5 +55,5 @@ Set up a controlled penetration testing environment using Kali Linux and OWASP J
 screenshots/kali-environment.png
 
 - Burp Suite Proxy Configuration
-Juice Shop Nmap Scan => <img width="778" height="710" alt="Juice-Shop Nmap" src="https://github.com/user-attachments/assets/98dd87ef-fcb0-4f9e-b5e2-9bba361b750c" />
+
 screenshots/burp-proxy-config.png
