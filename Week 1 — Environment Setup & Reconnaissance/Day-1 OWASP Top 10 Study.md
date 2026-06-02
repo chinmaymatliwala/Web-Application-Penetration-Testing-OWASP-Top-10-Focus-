@@ -19,22 +19,22 @@ The following OWASP Top 10 categories were studied:
 
 ## Learning Objectives
 ### The study focused on:
-•	web application attack surfaces
-•	authentication and authorization flaws
-•	insecure input handling
-•	injection attacks
-•	browser-based attacks
-•	reconnaissance methodologies
-•	exploitation workflow
+- web application attack surfaces
+- authentication and authorization flaws
+- insecure input handling
+- injection attacks
+- browser-based attacks
+- reconnaissance methodologies
+- exploitation workflow
 
 ## References Used
-•	OWASP Top 10 Documentation
-•	OWASP Testing Guide
-•	PTES (Penetration Testing Execution Standard)
+- OWASP Top 10 Documentation
+- OWASP Testing Guide
+- PTES (Penetration Testing Execution Standard)
 
 ## Learning Outcome
 ### Developed foundational understanding of:
-•	common web vulnerabilities
-•	attack methodologies
-•	reconnaissance workflow
-•	penetration testing lifecycle
+- common web vulnerabilities
+- attack methodologies
+- reconnaissance workflow
+- penetration testing lifecycle
