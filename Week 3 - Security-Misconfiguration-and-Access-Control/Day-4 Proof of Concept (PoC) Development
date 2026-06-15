@@ -1,0 +1,79 @@
+# Day 4 - Proof of Concept (PoC) Development
+
+## Objective
+
+Create reproducible Proof-of-Concept (PoC) documentation for identified vulnerabilities.
+
+---
+
+## PoC 1 - Improper Error Handling
+
+### Vulnerability
+
+Improper Error Handling
+
+### Severity
+
+Low
+
+### Reproduction
+
+1. Intercept search request.
+2. Send request to Repeater.
+3. Modify search value.
+4. Observe verbose error response.
+
+### Evidence
+
+Report Page 5
+
+---
+
+## PoC 2 - Admin Section Exposure
+
+### Vulnerability
+
+Broken Access Control
+
+### Severity
+
+Critical
+
+### Reproduction
+
+1. Inspect main.js.
+2. Discover administration route.
+3. Access administration endpoint.
+
+### Evidence
+
+Report Page 9
+
+---
+
+## PoC 3 - CAPTCHA Bypass
+
+### Vulnerability
+
+Broken Anti-Automation
+
+### Severity
+
+Medium
+
+### Reproduction
+
+1. Submit valid feedback.
+2. Capture request.
+3. Replay CAPTCHA values.
+4. Observe successful submission.
+
+### Evidence
+
+Report Pages 17–18
+
+---
+
+## Outcome
+
+Successfully documented reproducible Proof-of-Concept procedures for all Week 3 vulnerabilities.
