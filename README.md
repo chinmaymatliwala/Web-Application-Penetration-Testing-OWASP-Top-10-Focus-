@@ -225,10 +225,6 @@ Web-Application-Penetration-Testing-OWASP-Top10/
 │
 ├── Week-4-Final-Report-and-Documentation/
 │
-├── reports/
-│
-├── screenshots/
-│
 └── README.md
 ```
 
